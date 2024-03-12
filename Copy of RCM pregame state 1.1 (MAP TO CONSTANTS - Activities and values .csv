@@ -1,0 +1,37 @@
+Response Item,System Component,Activity - source white house 2021 plan ,Specific Activity (US),System variable,Value (units),Specific Activity (SD),System variable ,Value 0:1,Specific Activity (Team X),System variable,,RCM model param
+Detection  ,Public health surveillance systems,"Monitoring for cases of the virus, both symptomatic and asymptomatic.",CDC will deploy teams to affected areas to conduct active surveillance.,Syndromic Surveillance ,0.2910194674,San Diego County will use syndromic surveillance  to detect the virus.,,,,,,"S Surveillance transformer rate
+S Surveillance increase rate
+S Surveillance decline rate
+S Surveillance exponent"
+,,,,,,San Diego County will work with local universities to develop and deploy wastewater testing.,Wastewater surveillance ,,,,,
+,Contact tracing systems,Contact tracing to identify people who have been in contact with infected individuals.,CDC will provide funding and technical assistance to state and local health departments to support contact tracing.,CT converter  ,0.368799021,SD enacts manual CICT,Contact Tracing and Case Identification,,,,,"contact tracing\neffectiveness  
+S Contact tracing transformer rate   
+S Contact tracing increase rate
+S Contact tracing decline rate"
+,,,,,,San Diego County will add smartphone-based contact tracing.,EN,,,,,
+,Laboratory testing systems,Sequencing the virus to track its evolution.,CDC will support the development of new laboratory tests and will make them available to state and local health departments.,Testing multiplier? Timing?,,PCR testing ,Central testing  ,0.4665446204,,,,"testing\ncapacity
+mild test fraction"
+,,,,,,Sequencing ,Sequencing ,,,,,
+,,,,,,POC testing ,POC testing ,0,,,,
+Community Mitigation Measures,Public health messaging systems,Public health messaging to inform the public about the virus and how to protect themselves.,CDC will develop and distribute public health messaging materials in multiple languages.,Protective behavior converter?,,San Diego County will partner with local media outlets to promote public health messaging.,Protective behavior rate ,,,,,misinformation capacity
+,Social media platforms,Social media campaigns to promote public health messaging.,CDC will use social media to promote public health messaging.,,,San Diego County will work with local community organizations to promote public health messaging on social media.,Protective behavior rate ,,,,,misinformation capacity
+,Law enforcement agencies,"Enforcement of public health measures, such as mask mandates.",CDC will provide guidance to law enforcement agencies on how to enforce public health measures.,,,San Diego County will work with local law enforcement agencies to enforce mask mandates.,Protective behavior rate ,,,,,
+Medical Countermeasures,Pharmaceutical companies,Development of vaccines and antivirals.,CDC will provide funding and technical assistance to pharmaceutical companies to support the development of vaccines and antivirals.,Vaccine and therapeutic rates? Multiplier? Time constant?,,San Diego County will work with local universities to develop and deploy vaccines.,Vaccination capacity converter ,,,,,
+,Vaccine manufacturers,Production of vaccines.,CDC will work with vaccine manufacturers to ensure that there is a sufficient supply of vaccines.,Vaccination rate converter ,,San Diego County will work with local hospitals to ensure that there is a sufficient supply of vaccines.,Vaccination rate ,,,,,
+,Hospitals,Provision of care to infected individuals.,CDC will provide guidance to hospitals on how to care for infected individuals.,HC capacity converter ,,San Diego County will work with local hospitals to ensure that they have the necessary resources to care for infected individuals.,Healthcare Capacity ,,,,,testing\ncapacity
+Healthcare System Preparedness and Response Activities,Hospital surge capacity,"Increase in the number of beds, staff, and equipment to accommodate the expected increase in patients.",CDC will provide funding to hospitals to increase their surge capacity.,HC capacity converter ,,San Diego County will work with local hospitals to increase their surge capacity.,Healthcare capacity ,,,,,testing\ncapacity
+,Triage,System for triaging patients to ensure that the most critically ill patients receive the care they need.,CDC will provide guidance to hospitals on how to triage patients.,HC capacity converter ,,San Diego County will work with local hospitals to develop a triage system.,Healthcare capacity ,,,,,testing\ncapacity
+,Ethics guidelines,Guidelines for healthcare workers to make difficult decisions about how to allocate scarce resources.,CDC will develop ethics guidelines for healthcare workers.,Trust? Social capital?,,San Diego County will work with local hospitals to develop ethics guidelines for healthcare workers.,System trust ,,,,,
+Communications and Public Outreach,Public health messaging systems,"Tailored public health messaging to different audiences, such as healthcare workers, school children, and the general public.",CDC will develop tailored public health messaging materials for different audiences.," Trust, protective behaviors other converter?",,San Diego County will work with local community organizations to develop tailored public health messaging materials for different audiences.,,,,,,
+,Social media platforms,Social media campaigns to promote public health messaging.,CDC will use social media to promote public health messaging.,Information capacity converter?,,San Diego County will work with local community organizations to promote public health messaging on social media.,,,,,,
+,Community leaders,Engagement with community leaders to build trust and support for the response.,CDC will work with community leaders to build trust and support for the response.,,,San Diego County will work with local community organizations to build trust and support for the response.,,,,,,
+,,,,,,,,,,,,
+Scientific Infrastructure and Preparedness,Research,"Funding of research into the virus, its transmission, and its treatment.","CDC will provide funding to researchers to support research into the virus, its transmission, and its treatment.",,,"San Diego State University will work with local universities to conduct research into the virus, its transmission, and its treatment.",,,,,,
+,Data sharing,Sharing of data with other countries to help accelerate the development of vaccines and treatments.,CDC will share data with other countries to help accelerate the development of vaccines and treatments.,,,San Diego County will work with local universities,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Activities not mentioned in US PRP,,,,,,,,,,,,
+,,,,,,,,,,,,
+Critical Infrastructure (other),,,,,,,,,,,,
+,,,,,,,,,,,,
+Combatting Misinformation ,,,,,,,,,,,,
