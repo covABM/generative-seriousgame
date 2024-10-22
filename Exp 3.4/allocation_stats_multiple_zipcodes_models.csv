@@ -1,0 +1,52 @@
+ZIP Code,Model,Strategy,Average Allocation,Relative Range
+92101,Llama,Widespread Testing Initiatives,2084.210526,95.95959596
+92101,Llama,Targeted Public Health Campaigns,1499,100.0667111
+92101,Llama,Enforced Social Distancing Measures,1228.888889,97.64918626
+92101,Llama,Expansion of Healthcare Capacity,1869.387755,117.6855895
+92101,Llama,Promotion of Home Isolation and Self-Quarantine Measures,617.7777778,161.8705036
+92101,Llama,Telehealth Services Expansion,916.8831169,119.9716714
+92101,Llama,Advanced Vaccination Research,1316.666667,227.8481013
+92101,Llama,Comprehensive Contact Tracing Programs,1303.773585,191.7510854
+92101,Llama,Establishment of Quarantine and Isolation Facilities,1000,200
+92101,Mixtral,Widespread Testing Initiatives,1505,33.22259136
+92101,Mixtral,Targeted Public Health Campaigns,997.826087,20.04357298
+92101,Mixtral,Enforced Social Distancing Measures,1000,0
+92101,Mixtral,Comprehensive Contact Tracing Programs,1135,88.10572687
+92101,Mixtral,Establishment of Quarantine and Isolation Facilities,1474.137931,101.754386
+92101,Mixtral,Promotion of Home Isolation and Self-Quarantine Measures,711.7647059,70.24793388
+92101,Mixtral,Expansion of Healthcare Capacity,2020.833333,24.74226804
+92101,Mixtral,Telehealth Services Expansion,500,0
+92091,Llama,Widespread Testing Initiatives,2006.097561,99.69604863
+92091,Llama,Targeted Public Health Campaigns,1684.693878,148.3949122
+92091,Llama,Enforced Social Distancing Measures,1224.637681,163.3136095
+92091,Llama,Telehealth Services Expansion,1063.636364,235.042735
+92091,Llama,Expansion of Healthcare Capacity,1813.483146,137.8562577
+92091,Llama,Promotion of Home Isolation and Self-Quarantine Measures,1067.123288,187.4197689
+92091,Llama,Advanced Vaccination Research,1250,120
+92091,Llama,Comprehensive Contact Tracing Programs,1429.545455,174.8807631
+92091,Llama,Establishment of Quarantine and Isolation Facilities,1162.5,111.827957
+92091,Mixtral,Widespread Testing Initiatives,1500,66.66666667
+92091,Mixtral,Targeted Public Health Campaigns,1011.111111,49.45054945
+92091,Mixtral,Enforced Social Distancing Measures,1010.869565,49.46236559
+92091,Mixtral,Comprehensive Contact Tracing Programs,1415,70.67137809
+92091,Mixtral,Promotion of Home Isolation and Self-Quarantine Measures,927.8350515,53.88888889
+92091,Mixtral,Establishment of Quarantine and Isolation Facilities,1884.615385,26.53061224
+92091,Mixtral,Telehealth Services Expansion,535.7142857,93.33333333
+92091,Mixtral,Expansion of Healthcare Capacity,2214.285714,45.16129032
+92093,Llama,Widespread Testing Initiatives,2119.791667,94.34889435
+92093,Llama,Targeted Public Health Campaigns,1608.080808,198.9949749
+92093,Llama,Enforced Social Distancing Measures,1170.422535,102.5270758
+92093,Llama,Expansion of Healthcare Capacity,1856.666667,123.8779174
+92093,Llama,Telehealth Services Expansion,1094.666667,109.6224117
+92093,Llama,Advanced Vaccination Research,1388.888889,72
+92093,Llama,Comprehensive Contact Tracing Programs,1508.695652,99.42363112
+92093,Llama,Establishment of Quarantine and Isolation Facilities,1450,103.4482759
+92093,Llama,Promotion of Home Isolation and Self-Quarantine Measures,977.1428571,153.5087719
+92093,Mixtral,Widespread Testing Initiatives,1505,33.22259136
+92093,Mixtral,Targeted Public Health Campaigns,1000,0
+92093,Mixtral,Enforced Social Distancing Measures,1000,0
+92093,Mixtral,Comprehensive Contact Tracing Programs,1368.421053,73.07692308
+92093,Mixtral,Promotion of Home Isolation and Self-Quarantine Measures,973.9583333,51.3368984
+92093,Mixtral,Telehealth Services Expansion,500,0
+92093,Mixtral,Establishment of Quarantine and Isolation Facilities,1900,26.31578947
+92093,Mixtral,Expansion of Healthcare Capacity,2000,0
